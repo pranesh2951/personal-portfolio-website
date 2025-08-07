@@ -9,4 +9,4 @@ Live site: https://pranesh2951.github.io/personal-portfolio-website/
 - Easy navigation
 
 ## Contact
-📧 rajagurupranesh22@gmail.com
+📧 pranesh2951@gmail.com
