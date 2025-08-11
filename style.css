@@ -121,7 +121,7 @@ h2 {
 /* Services Section */
 .services {
   padding: 2rem;
-  background-color: Black;
+  background-color: #000000;
   text-align: center;
 }
 
@@ -230,5 +230,6 @@ footer p {
   }
 
 }
+
 
 
