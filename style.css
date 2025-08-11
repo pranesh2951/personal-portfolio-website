@@ -118,6 +118,28 @@ h2 {
   border-radius: 6px;
   box-shadow: 0 0 5px #00ffab22;
 }
+.service-detail {
+  padding: 2rem;
+  background-color: #fff;
+}
+
+.service-detail table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.service-detail th,
+.service-detail td {
+  border: 1px solid #ccc;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+.service-detail th {
+  background-color: #0078d4;
+  color: white;
+}
 
 /* ==== CONTACT ==== */
 .contact a {
@@ -185,4 +207,5 @@ footer p {
     display: block;
     margin: 10px 0;
   }
+
 }
