@@ -121,14 +121,14 @@ h2 {
 /* Services Section */
 .services {
   padding: 2rem;
-  background-color: #000000;
+  background-color: #1a1a2e; /* Matches the site's gradient tones */
   text-align: center;
 }
 
 .services h2 {
   margin-bottom: 1.5rem;
   font-size: 2rem;
-  color: #333;
+  color: #00ffab; /* Consistent with highlight color */
 }
 
 .service-boxes {
@@ -230,6 +230,7 @@ footer p {
   }
 
 }
+
 
 
 
