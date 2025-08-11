@@ -121,7 +121,7 @@ h2 {
 /* Services Section */
 .services {
   padding: 2rem;
-  background-color: #1a1a2e; /* Matches the site's gradient tones */
+  background-color: #1e1e1e; 
   text-align: center;
 }
 
@@ -230,6 +230,7 @@ footer p {
   }
 
 }
+
 
 
 
